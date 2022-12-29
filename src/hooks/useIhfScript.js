@@ -9,5 +9,5 @@ export default function useIhfScript(widgetObject){
         return () => {
             idx_element.removeChild(idx_element.firstChild);
         }
-    },[]);
+    },[widgetObject]);
 };
