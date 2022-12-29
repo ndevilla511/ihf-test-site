@@ -1,5 +1,6 @@
 {
   "name": "ihf-test-site",
+  "homepage": "https://adorable-froyo-d7298b.netlify.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "react-router-dom": "^6.6.1"
   }
 }
