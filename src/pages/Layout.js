@@ -6,19 +6,19 @@ const Layout = () => {
             <nav>
                 <ul>
                     <li>
-                        <Link to="/ihf-test-site">Home</Link>
+                        <Link to="/">Home</Link>
                     </li>
                     <li>
-                        <Link to="/ihf-test-site/blogs">Blogs</Link>
+                        <Link to="/blogs">Blogs</Link>
                     </li>
                     <li>
-                        <Link to="/ihf-test-site/contact">Contact</Link>
+                        <Link to="/contact">Contact</Link>
                     </li>
                     <li>
-                        <Link to="/ihf-test-site/property-search">Property Search</Link>
+                        <Link to="/property-search">Property Search</Link>
                     </li>
                     <li>
-                        <Link to="/ihf-test-site/featured-listings">Featured Listings</Link>
+                        <Link to="/featured-listings">Featured Listings</Link>
                     </li>
                 </ul>
             </nav>
